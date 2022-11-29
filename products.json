@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Toblerone",
+      "price": 450 ,
+      "description": "chocolate relleno de caramelo y mani",
+      "id": 1
+    },
+    {
+      "name": "Oreo",
+      "price": 150,
+      "description": "galletita de chocolate rellena de crema",
+      "id": 2
+    },
+    {
+      "name": "Alfajor",
+      "price": 200,
+      "description": "alfajor de chocolate relleno de ddl",
+      "id": 3
+    }
+  ]
